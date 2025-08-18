@@ -20,7 +20,7 @@ const victor = {
     askMeAbout: ["web dev", "tech", "e-commerce", "sistemas web"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vanilla JS"],
+            js: ["React"],
             css: ["CSS3", "Bootstrap", "Responsive Design"]
         },
         backEnd: {
@@ -110,12 +110,12 @@ const victor = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-muniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-muniz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Munizdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Munizdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-muniz&theme=tokyonight" alt="victor-muniz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Munizdev&theme=tokyonight" alt="victor-muniz" />
 </div>
 
 ---
@@ -123,7 +123,7 @@ const victor = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/victor-muniz/victor-muniz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Victor-Munizdev/Victor-Munizdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -131,7 +131,7 @@ const victor = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victor-muniz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="victor-muniz" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Victor-Munizdev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="victor-muniz" />
 </div>
 
 ---
@@ -139,7 +139,7 @@ const victor = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-muniz&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Munizdev&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -148,8 +148,8 @@ const victor = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-muniz&repo=portfolio&theme=tokyonight)](https://github.com/victor-muniz/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-muniz&repo=ecommerce-php&theme=tokyonight)](https://github.com/victor-muniz/ecommerce-php)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Munizdev&repo=portfolio&theme=tokyonight)](https://github.com/Victor-Munizdev/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Munizdev&repo=ecommerce-php&theme=tokyonight)](https://github.com/victor-muniz/ecommerce-php)
 
 </div>
 
@@ -171,7 +171,7 @@ const victor = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.victor-munizdev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.portifolio.tech)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munizzvr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-muniz)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
