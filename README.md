@@ -16,19 +16,24 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 
 \`\`\`javascript
 const victor = {
-    code: ["PHP", "JavaScript", "HTML", "CSS", "React"],
-    askMeAbout: ["web dev", "tech", "e-commerce", "sistemas web"],
+    code: ["PHP", "JavaScript", "HTML", "CSS", "React", "Next.js", "React Native"],
+    askMeAbout: ["web dev", "tech", "e-commerce", "sistemas web", "mobile dev"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["CSS3", "Bootstrap", "Responsive Design"]
+            js: ["React", "Next.js", "Vanilla JS"],
+            css: ["CSS3", "Bootstrap", "Responsive Design"],
+            mobile: ["React Native"]
         },
         backEnd: {
             php: ["PHP", "MySQL"],
             js: ["Node.js"]
         },
-        databases: ["MySQL", "PostgreSQL"],
-        misc: ["Git", "GitHub", "VS Code"]
+        databases: ["MySQL", "PostgreSQL", "Supabase"],
+        cloud: ["Microsoft Azure"],
+        hosting: ["Hostinger", "Netlify", "Vercel"],
+        tools: ["Git", "GitHub", "Postman"],
+        editors: ["VS Code", "CodePen", "Cursor", "Text (Chrome OS)"],
+        collaboration: ["Notion", "Monday", "Slack"]
     },
     currentFocus: "Criando experiências web incríveis",
     funFact: "Transformo café em código!"
@@ -46,15 +51,33 @@ const victor = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
+### Backend & Databases
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & Others
+### Cloud & Hosting
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools & Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### Collaboration & Productivity
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Monday](https://img.shields.io/badge/Monday-FF3D57?style=for-the-badge&logo=monday&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
 
@@ -184,10 +207,14 @@ const victor = {
 
 <div align="center">
 
+![](https://img.shields.io/badge/SENAI-Técnico_em_TI-FF6B35?style=for-the-badge&logo=senai&logoColor=white)
+![](https://img.shields.io/badge/FIAP-Desenvolvimento_Web-0066CC?style=for-the-badge&logo=fiap&logoColor=white)
 ![](https://img.shields.io/badge/Certificação-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Certificação-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Certificação-Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Certificação-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Certificação-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Certificação-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Certificação-Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
