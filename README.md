@@ -20,7 +20,7 @@ const victor = {
     askMeAbout: ["web dev", "tech", "e-commerce", "sistemas web"],
     technologies: {
         frontEnd: {
-            js: ["React"],
+            js: ["React", "Vanilla JS"],
             css: ["CSS3", "Bootstrap", "Responsive Design"]
         },
         backEnd: {
@@ -107,39 +107,64 @@ const victor = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Munizdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Munizdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  
+### 📈 Estatísticas Gerais
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Munizdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Munizdev&theme=tokyonight" alt="victor-muniz" />
-</div>
+### 💻 Linguagens Mais Utilizadas
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Munizdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
----
+### 🔥 Sequência de Commits
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Munizdev&theme=tokyonight&hide_border=true&background=0d1117" alt="Victor-Munizdev" />
 
-## 🐍 Contribution Snake
+### 📊 Estatísticas Detalhadas
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victor-Munizdev&theme=tokyonight" alt="Victor-Munizdev Profile Summary"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Victor-Munizdev/Victor-Munizdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victor-Munizdev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="victor-muniz" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Munizdev&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Munizdev/Victor-Munizdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-Munizdev/Victor-Munizdev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victor-Munizdev/Victor-Munizdev/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Victor-Munizdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Victor-Munizdev" />
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Munizdev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 📊 Métricas Avançadas
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor-Munizdev&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victor-Munizdev&theme=tokyonight" alt="Most Commit Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victor-Munizdev&theme=tokyonight" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Victor-Munizdev&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
+
 </div>
 
 ---
@@ -148,8 +173,8 @@ const victor = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Munizdev&repo=portfolio&theme=tokyonight)](https://github.com/Victor-Munizdev/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Munizdev&repo=ecommerce-php&theme=tokyonight)](https://github.com/victor-muniz/ecommerce-php)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Munizdev&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Victor-Munizdev/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Munizdev&repo=ecommerce-php&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Victor-Munizdev/ecommerce-php)
 
 </div>
 
@@ -162,6 +187,7 @@ const victor = {
 ![](https://img.shields.io/badge/Certificação-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Certificação-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Certificação-Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Certificação-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -171,8 +197,9 @@ const victor = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.portifolio.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portifolio.tech)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munizzvr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Munizdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-muniz)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
 
@@ -186,7 +213,9 @@ const victor = {
 
 **Disponível para projetos freelance e parcerias! 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=victor-muniz&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Victor-Munizdev&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Victor-Munizdev?style=for-the-badge&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/Victor-Munizdev?style=for-the-badge&color=yellow)
 
 ---
 
