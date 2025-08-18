@@ -14,32 +14,6 @@
 
 Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especializado em desenvolvimento web e infraestrutura de TI. Com experiência prática em projetos empresariais, dedico-me a criar soluções digitais inovadoras que fazem a diferença no mundo real.
 
-\`\`\`javascript
-const victor = {
-    code: ["PHP", "JavaScript", "HTML", "CSS", "React", "Next.js", "React Native"],
-    askMeAbout: ["web dev", "tech", "e-commerce", "sistemas web", "mobile dev"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vanilla JS"],
-            css: ["CSS3", "Bootstrap", "Responsive Design"],
-            mobile: ["React Native"]
-        },
-        backEnd: {
-            php: ["PHP", "MySQL"],
-            js: ["Node.js"]
-        },
-        databases: ["MySQL", "PostgreSQL", "Supabase"],
-        cloud: ["Microsoft Azure"],
-        hosting: ["Hostinger", "Netlify", "Vercel"],
-        tools: ["Git", "GitHub", "Postman"],
-        editors: ["VS Code", "CodePen", "Cursor", "Text (Chrome OS)"],
-        collaboration: ["Notion", "Monday", "Slack"]
-    },
-    currentFocus: "Criando experiências web incríveis",
-    funFact: "Transformo café em código!"
-};
-\`\`\`
-
 ---
 
 ## 🛠️ Tech Stack
