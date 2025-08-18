@@ -1,114 +1,201 @@
-# Portfólio - Victor Muniz
+<div align="center">
 
-🚀 **Transformando ideias em realidade digital**
+# 👋 Olá, eu sou Victor Muniz!
 
-Seja muito bem-vindo(a)! Meu nome é **Victor Muniz** e sou um jovem profissional em formação na área de **Tecnologia da Informação**, com foco em desenvolvimento web e infraestrutura de TI. Tenho experiência prática em projetos empresariais e atuo na criação de soluções digitais utilizando **PHP, HTML, CSS e JavaScript**.
+### 🚀 Desenvolvedor Full Stack | Transformando ideias em realidade digital
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Full+Stack;Especialista+em+PHP+%26+JavaScript;Criador+de+Solu%C3%A7%C3%B5es+Digitais;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
 
-## 🧠 Especialidades
-
-### 💻 Desenvolvimento Web
-Criação de websites personalizados, com foco em funcionalidade, design e inovação. Desenvolvo soluções sob medida com as melhores práticas de desenvolvimento web.
-
-### 🛒 E-commerce
-Desenvolvimento de lojas virtuais com PHP e JavaScript, com integração de compras via WhatsApp. Layouts modernos e centrados na experiência do usuário, otimizados para vendas.
-
-### 🧾 Sistemas Web
-Soluções web robustas e intuitivas, desenvolvidas com PHP, HTML, CSS e JavaScript. Atendo desde necessidades de gestão empresarial até plataformas específicas.
+</div>
 
 ---
 
-## ✨ Tecnologias Utilizadas
+## 🎯 Sobre Mim
 
-- PHP
-- HTML5
-- CSS3
-- JavaScript
-- React (em projetos específicos)
+Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especializado em desenvolvimento web e infraestrutura de TI. Com experiência prática em projetos empresariais, dedico-me a criar soluções digitais inovadoras que fazem a diferença no mundo real.
 
----
-
-## 📁 Projetos
-
-Confira alguns dos meus projetos desenvolvidos com foco em performance, escalabilidade e experiência do usuário:
-
-🔗 [Ver Projetos]() <!-- Substitua pelo link real do seu portfólio ou repositório de projetos -->
-
----
-
-## 📜 Certificados
-
-Certificados obtidos durante minha trajetória em TI, comprovando conhecimentos técnicos e práticas atualizadas de desenvolvimento.  
-<!-- Adicione links ou lista dos certificados, se quiser -->
-
----
-
-## 📬 Contato
-
-Quer conversar sobre uma ideia ou projeto? Entre em contato!
-
-- **Nome:** Victor Muniz  
-- **Email:** [munizzvr@gmail.com](mailto:munizzvr@egmail.com)  
-- **Mensagem:** Estou disponível para parcerias, freelas ou uma boa troca de ideias!
+\`\`\`javascript
+const victor = {
+    code: ["PHP", "JavaScript", "HTML", "CSS", "React"],
+    askMeAbout: ["web dev", "tech", "e-commerce", "sistemas web"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vanilla JS"],
+            css: ["CSS3", "Bootstrap", "Responsive Design"]
+        },
+        backEnd: {
+            php: ["PHP", "MySQL"],
+            js: ["Node.js"]
+        },
+        databases: ["MySQL", "PostgreSQL"],
+        misc: ["Git", "GitHub", "VS Code"]
+    },
+    currentFocus: "Criando experiências web incríveis",
+    funFact: "Transformo café em código!"
+};
+\`\`\`
 
 ---
 
-© Victor Muniz – Todos os direitos reservados.
-# Portfólio - Victor Muniz
+## 🛠️ Tech Stack
 
-🚀 **Transformando ideias em realidade digital**
+<div align="center">
 
-Seja muito bem-vindo(a)! Meu nome é **Victor Muniz** e sou um jovem profissional em formação na área de **Tecnologia da Informação**, com foco em desenvolvimento web e infraestrutura de TI. Tenho experiência prática em projetos empresariais e atuo na criação de soluções digitais utilizando **PHP, HTML, CSS e JavaScript**.
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🧠 Especialidades
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 💻 Desenvolvimento Web
-Criação de websites personalizados, com foco em funcionalidade, design e inovação. Desenvolvo soluções sob medida com as melhores práticas de desenvolvimento web.
-
-### 🛒 E-commerce
-Desenvolvimento de lojas virtuais com PHP e JavaScript, com integração de compras via WhatsApp. Layouts modernos e centrados na experiência do usuário, otimizados para vendas.
-
-### 🧾 Sistemas Web
-Soluções web robustas e intuitivas, desenvolvidas com PHP, HTML, CSS e JavaScript. Atendo desde necessidades de gestão empresarial até plataformas específicas.
-
----
-
-## ✨ Tecnologias Utilizadas
-
-- PHP
-- HTML5
-- CSS3
-- JavaScript
-- React (em projetos específicos)
+</div>
 
 ---
 
-## 📁 Projetos
+## 🎨 Especialidades
 
-Confira alguns dos meus projetos desenvolvidos com foco em performance, escalabilidade e experiência do usuário:
+<table>
+<tr>
+<td width="50%">
 
-🔗 [Ver Projetos](https://www.Victor-Munizdev) 
+### 💻 **Desenvolvimento Web**
+- Websites personalizados e responsivos
+- Foco em performance e SEO
+- Melhores práticas de desenvolvimento
+- Design centrado no usuário
+
+</td>
+<td width="50%">
+
+### 🛒 **E-commerce**
+- Lojas virtuais completas
+- Integração com WhatsApp
+- Sistemas de pagamento
+- Otimização para conversão
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧾 **Sistemas Web**
+- Aplicações robustas e escaláveis
+- Gestão empresarial
+- APIs e integrações
+- Soluções sob medida
+
+</td>
+<td width="50%">
+
+### 🔧 **Infraestrutura TI**
+- Configuração de servidores
+- Otimização de performance
+- Segurança e backup
+- Manutenção preventiva
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certificados
+## 📊 GitHub Stats
 
-Certificados obtidos durante minha trajetória em TI, comprovando conhecimentos técnicos e práticas atualizadas de desenvolvimento.  
-<!-- Adicione links ou lista dos certificados, se quiser -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-muniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-muniz&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
----
-
-## 📬 Contato
-
-Quer conversar sobre uma ideia ou projeto? Entre em contato!
-
-- **Nome:** Victor Muniz  
-- **Email:** [munizzvr@gmail.com](mailto:munizzvr@egmail.com)  
-- **Mensagem:** Estou disponível para parcerias, freelas ou uma boa troca de ideias!
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-muniz&theme=tokyonight" alt="victor-muniz" />
+</div>
 
 ---
 
-© Victor Muniz.
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/victor-muniz/victor-muniz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=victor-muniz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="victor-muniz" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-muniz&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🎯 Projetos em Destaque
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-muniz&repo=portfolio&theme=tokyonight)](https://github.com/victor-muniz/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-muniz&repo=ecommerce-php&theme=tokyonight)](https://github.com/victor-muniz/ecommerce-php)
+
+</div>
+
+---
+
+## 📜 Certificações & Conquistas
+
+<div align="center">
+
+![](https://img.shields.io/badge/Certificação-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Certificação-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Certificação-Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+---
+
+## 🌐 Vamos nos Conectar?
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.victor-munizdev.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munizzvr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-muniz)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Código limpo não é escrito seguindo regras. Código limpo é escrito por programadores que se importam."*
+
+**Disponível para projetos freelance e parcerias! 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=victor-muniz&color=blueviolet&style=for-the-badge)
+
+---
+
+⭐️ **Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
