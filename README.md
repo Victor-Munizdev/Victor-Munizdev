@@ -4,7 +4,8 @@
 
 ### 🚀 Desenvolvedor Full Stack | Transformando ideias em realidade digital
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+PHP+%26+JavaScript;Criador+de+Solu%C3%A7%C3%B5es+Digitais;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;
+Criador+de+Solu%C3%A7%C3%B5es+Digitais;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
 
 </div>
 
