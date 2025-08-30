@@ -219,7 +219,7 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 
 ---
 
-⭐️ **Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios!**
+⭐️ **Se você gostou do meu trabalho, considere me seguir no instagram!**
 
 </div>
 
