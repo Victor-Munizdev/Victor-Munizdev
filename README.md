@@ -128,10 +128,10 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 
 ## 🐍 Contribution Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake.svg">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
