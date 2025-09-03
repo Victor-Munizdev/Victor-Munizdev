@@ -150,16 +150,6 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Victor-Munizdev&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
 
 </div>
-
----
-
-## 🎯 Projetos em Destaque
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Munizdev&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Victor-Munizdev/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Munizdev&repo=ecommerce-php&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Victor-Munizdev/ecommerce-php)
-
 </div>
 
 ---
