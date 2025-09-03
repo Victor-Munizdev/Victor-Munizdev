@@ -109,7 +109,7 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 ## 📊 GitHub Stats & Analytics
 
 <div align="center">
-  
+  
 ### 📈 Estatísticas Gerais
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Munizdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 
@@ -128,18 +128,20 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 
 ## 🐍 Contribution Snake Animation
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victor-munizdev/Victor-munizdev/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victor-Munizdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Victor-Munizdev" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Victor-Munizdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Victor-Munizdev" />
 </div>
 
 ---
@@ -147,7 +149,7 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Munizdev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Munizdev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -227,5 +229,5 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
