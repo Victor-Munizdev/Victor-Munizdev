@@ -4,9 +4,6 @@
 
 ### 🚀 Desenvolvedor Full Stack | Transformando ideias em realidade digital
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack+
-Criador+de+Solu%C3%A7%C3%B5es+Digitais;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -122,18 +119,6 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 ### 📊 Estatísticas Detalhadas
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victor-Munizdev&theme=tokyonight" alt="Victor-Munizdev Profile Summary"/>
 
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Victor-Munizdev/Victor-Munizdev/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Victor-Munizdev/Victor-Munizdev/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Victor-Munizdev/Victor-Munizdev/raw/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
