@@ -156,14 +156,8 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 
 <div align="center">
 
-![](https://img.shields.io/badge/SENAI-Técnico_em_TI-FF6B35?style=for-the-badge&logo=senai&logoColor=white)
-![](https://img.shields.io/badge/FIAP-Desenvolvimento_Web-0066CC?style=for-the-badge&logo=fiap&logoColor=white)
-![](https://img.shields.io/badge/Certificação-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Certificação-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Certificação-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Certificação-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Certificação-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Certificação-Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/SENAI-IA-900-FF6B35?style=for-the-badge&logo=senai&logoColor=white)
+![](https://img.shields.io/badge/FIAP-Startup-for-Students-0066CC?style=for-the-badge&logo=fiap&logoColor=white)
 
 </div>
 
