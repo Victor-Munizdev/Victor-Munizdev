@@ -156,8 +156,8 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 
 <div align="center">
 
-![](https://img.shields.io/badge/SENAI-IA-900-FF6B35?style=for-the-badge&logo=senai&logoColor=white)
-![](https://img.shields.io/badge/FIAP-Startup-for-Students-0066CC?style=for-the-badge&logo=fiap&logoColor=white)
+![](https://img.shields.io/badge/SENAI-IA-900FF6B35?style=for-the-badge&logo=senai&logoColor=white)
+![](https://img.shields.io/badge/FIAP-Startup-for-Students0066CC?style=for-the-badge&logo=fiap&logoColor=white)
 
 </div>
 
