@@ -32,6 +32,7 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-3C5E90?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ### Cloud & Hosting
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
