@@ -123,14 +123,6 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victor-Munizdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Victor-Munizdev" />
-</div>
-
----
-
 ## 📈 Contribution Activity Graph
 
 <div align="center">
@@ -159,7 +151,7 @@ Sou um jovem profissional apaixonado por **Tecnologia da Informação**, especia
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portifolio.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://munizvr.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munizzvr@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511914098185)
 
