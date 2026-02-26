@@ -93,10 +93,10 @@ I am a professional passionate about **Information Technology**, specializing in
 <div align="center">
   
 ### 📈 General Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Munizdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 
 ### 💻 Most Used Languages
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Munizdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### 🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Munizdev&theme=tokyonight&hide_border=true&background=0d1117" alt="Victor-Munizdev" />
