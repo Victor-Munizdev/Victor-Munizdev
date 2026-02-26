@@ -92,7 +92,7 @@ I am a professional passionate about **Information Technology**, specializing in
 
 <div align="center">
   
-### 📈 General Stats
+📈 General Stats
 
 ### 💻 Most Used Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
